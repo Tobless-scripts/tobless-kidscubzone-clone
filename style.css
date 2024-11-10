@@ -298,8 +298,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1em;
-    position: relative; 
-    z-index: 1;
+    position: relative;
 }
 
 .journey:hover {
