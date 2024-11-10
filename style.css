@@ -1229,10 +1229,10 @@ footer {
 #scrollToTop {
     display: none;
     position: fixed;
-    bottom: 1.5em;
-    right: .5vw;
+    bottom: 2em;
+    right: .9vw;
     z-index: 100;
-    width: 3em;
+    width: 4em;
     border: none;
     border-radius: 5px;
     cursor: pointer;
